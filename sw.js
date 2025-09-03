@@ -6,7 +6,7 @@
  * @LastEditTime: 2022-03-08 12:24:30
  * @LastEditors: 安知鱼
  */
-const workboxVersion = "5.1.3";
+const workboxVersion = "7.3.0";
 
 importScripts(`https://storage.googleapis.com/workbox-cdn/releases/${workboxVersion}/workbox-sw.js`);
 
